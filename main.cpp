@@ -59,12 +59,12 @@ public:
         };
 
         void cart(){
-            cout << "Here's your current cart" << endl;
+            cout << "cart is a valid command" << endl;
             input();
         };
 
         void checkout(){
-            cout << "checkout" << endl;
+            cout << "checkout is a valid command" << endl;
             input();
         };
 
